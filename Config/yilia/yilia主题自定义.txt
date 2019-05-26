@@ -1,0 +1,6 @@
+          添加 访问统计   在 Blog\themes\yilia\layout\_partial  footer.ejs 中添加 。
+
+         去掉 主题 powered 提示  在 Blog\themes\yilia\layout\_partial  footer.ejs 。
+
+         去掉 powerer by gitment 的提示  在 D:\Blog\themes\yilia\layout\_partial\post
+                        gitment.ejs 中引用自己的 js
